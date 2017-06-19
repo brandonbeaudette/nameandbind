@@ -1,5 +1,6 @@
-# nameandbind
+# NameAndBindV6
 RFSD tool to bind to AD and set other settings
+The tool starts at version 6, as earlier versions were pre-git.
 This script will do the following:
 - offer to change the computer name"
 - offer to change the Managed Software Center Client Identifier"
